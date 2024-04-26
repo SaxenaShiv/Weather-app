@@ -6,4 +6,5 @@
 
  3. Finally, run `npm start` to start the project.
 
-Note - Inititally default location will be shown if the location is allowed by the user. Otherwise there is no data but search functionality still works. 
+Note - 
+Initially, the default location will be displayed if the user allows geolocation. Otherwise, the search functionality will still work, but no default location data will be shown.
